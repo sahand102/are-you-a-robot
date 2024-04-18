@@ -1,15 +1,26 @@
 ! version = 2.0
 
-+ hello
++ [hello|yo|hi]
 - Hello, what is your name?
 
 + _
 % hello what is your name
-- Nice to meet you <formal>!
+- Nice to meet you <formal>! How can I help you?
 
 + my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
+- Nice to meet you <star> how can I help you?
+- Nice meeting you <star> how can I help you?
+
++_*
+- YH THAT'S CRAZY! but I dont care :( <weight5>
+- you're still here?
+
++ fuck you
+- no fuck you
+
++ why
+- You're still here?
+
 
 + thank you
 - You are welcome
